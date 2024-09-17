@@ -4,7 +4,7 @@
 ### How to use: 
 
 1. Clone
-   - `git clone https://github.com/JevonThompsonx/react_ts_template.git`
+  - `git clone https://github.com/JevonThompsonx/react_ts_template.git`
   - bun install 
   - Rest is all you
 2. Template
