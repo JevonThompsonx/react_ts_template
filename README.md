@@ -5,10 +5,10 @@
 
 1. Clone
   1. `git clone https://github.com/JevonThompsonx/react_ts_template.git`
-  2. bun install 
-  3. Rest is all you
+  - bun install 
+  - Rest is all you
 2. Template
-   1. Create template through github by clicking "use this template"
+    - Create template through github by clicking "use this template"
 
 ### Some whys 
 I've been learning react, use typescript for type safety, vite fofor easy setup, bun because it goes zoom brrrr, biome is a modern linter & formatter, react router is ridiculously easy to use
