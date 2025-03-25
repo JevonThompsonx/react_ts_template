@@ -3,9 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "scripts": {
-    "dev": "bunx --bun vite",
-    "build": "tsc -b && bunx --bun vite build",
+
+   "scripts": {
+    "dev": "bun vite",
+    "build": "tsc -b && bun vite build",
     "preview": "vite preview",
     "format": "bun biome format .",
     "lint": "bun biome check ."
